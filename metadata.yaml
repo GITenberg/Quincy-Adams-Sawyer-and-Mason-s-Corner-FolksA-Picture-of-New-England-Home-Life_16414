@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '2489'
     url: http://www.gutenberg.org/2009/agents/2489
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16414#Quincy-Adams-Sawyer-and-Mason-s-Corner-FolksA-Picture-of-New-England-Home-Life
 gutenberg_issued: '2005-08-02'
 gutenberg_type: Text
 identifiers:
