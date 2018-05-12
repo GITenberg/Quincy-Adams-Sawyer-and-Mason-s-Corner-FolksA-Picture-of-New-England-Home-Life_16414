@@ -1,0 +1,29 @@
+_repo: Quincy-Adams-Sawyer-and-Mason-s-Corner-FolksA-Picture-of-New-England-Home-Life_16414
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16414-h/images/cover-tn.png
+creator:
+  author:
+    agent_name: Pidgin, Charles Felton
+    alias: Pidgin, Charles F. (Charles Felton)
+    birthdate: 1844
+    deathdate: 1923
+    gutenberg_agent_id: '2489'
+    url: http://www.gutenberg.org/2009/agents/2489
+description: ''
+gutenberg_issued: '2005-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Fiction'
+- !lcc 'PS'
+title: 'Quincy Adams Sawyer and Mason''s Corner Folks
+
+  A Picture of New England Home Life'
+url: http://www.gutenberg.org/ebooks/16414
